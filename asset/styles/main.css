@@ -1,0 +1,30 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-size: 20px;
+}
+body{
+	position: relative;
+}
+div.profile{
+	position: fixed;
+	left:10%;
+}
+div.profile > h1{
+
+}
+div > img{
+	border: 200px;
+	width: 300px;
+	height: 200px;
+} 
+
+div.flex-container{
+	width: 80%;
+	background-color: blue;
+	padding:20px;
+	position: absolute;
+	left: 50%;
+	height: auto;
+	text-align: center;
+}
